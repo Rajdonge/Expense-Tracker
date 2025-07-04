@@ -1,3 +1,4 @@
+<div>
 
     <h1>Django Expense Tracker API</h1>
 
@@ -193,5 +194,5 @@ updated_at → DateTimeField (auto)<br>
         <li><code>403</code> Forbidden - Permission denied</li>
         <li><code>404</code> Not Found - Resource not found</li>
     </ul>
-</body>
-</html>
+
+</div>
