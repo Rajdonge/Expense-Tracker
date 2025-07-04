@@ -85,12 +85,67 @@
   <p>
     The API includes comprehensive test coverage for:
   </p>
-  <ul>
-    <li>Authentication flows</li>
-    <li>CRUD operations</li>
-    <li>Tax calculations</li>
-    <li>Permission checks</li>
-  </ul>
+  ### Authentication Tests  
+• User registration with valid data  
+<img src="https://drive.google.com/file/d/1OwmjSc3RxnEpeL53PWVMGzqAYqNchCn5/view?usp=sharing"/>
+
+• User registration with duplicate email/username  
+<img src="https://drive.google.com/file/d/1TqO2w8xIUz_2NduYQhwfvS0eoAa--1_Y/view?usp=sharing"/>
+
+• User login with valid credentials  
+<img src="https://drive.google.com/file/d/1d2cyjeilx2nzCn-8MV1Owe-ny9fa1PDu/view?usp=sharing"/>
+
+• User login with invalid credentials  
+<img src="https://drive.google.com/file/d/1cSruHcvrgJenxkkfD23dXtVmLC-QDdao/view?usp=sharing"/>
+
+• Token refresh functionality  
+<img src="https://drive.google.com/file/d/17rwATA6Fyg19bFtDUdHQx8jT3ihQ65Xr/view?usp=sharing"/>
+
+• Access protected endpoint with valid token  
+<img src="https://drive.google.com/file/d/1GaQdTy0sYrRtnPpPgnn06SjrD3iUAcoE/view?usp=sharing"/>
+
+• Access protected endpoint without token  
+<img src="https://drive.google.com/file/d/1JvITZCQYy6t5nFUSON4g-rGZm5h0ZN5E/view?usp=sharing"/>
+
+### CRUD Operations Tests  
+• Create expense/income record  
+<img src="https://drive.google.com/file/d/1RYi5pHVXxTgMOiNF4qolAMjQ4L-VzJRc/view?usp=sharing"/>
+
+• List user's own records only  
+<img src="https://drive.google.com/file/d/1jJmOptoODE0YJAIyviH4on2hEuuBzBCu/view?usp=sharing"/>
+
+• Retrieve specific record (own only)  
+<img src="https://drive.google.com/file/d/1nPtBnhRYP8Zpvu3x1Ahuuy7gNgNaxbaP/view?usp=sharing"/>
+
+• Update existing record (own only)  
+<img src="https://drive.google.com/file/d/1KoB4zKVCfRh0TFdCYRRF_i3DjZhQhcbG/view?usp=sharing"/>
+
+• Delete record (own only)  
+<img src="https://drive.google.com/file/d/126cmGb7stpe2_YS9ikB37HoWzPDaU7EH/view?usp=sharing"/>
+
+• Verify superuser can access all records  
+<img src="https://drive.google.com/file/d/1RM97hUvnDiwsOQiUiu5UoTU1Q3OA40U8/view?usp=sharing"/>
+
+### Business Logic Tests  
+• Flat tax: Amount = 100, Tax = 10 → Total = 110  
+<img src="https://drive.google.com/file/d/1CbKJkMq-XI3ic8MaN80oXON4xbSCiFPR/view?usp=sharing"/>
+
+• Percentage tax: Amount = 100, Tax = 10% → Total = 110  
+<img src="https://drive.google.com/file/d/1uXWE7JA-jZjHvWtxyEdteHNymCJIDtx7/view?usp=sharing"/>
+
+• Zero tax: Amount = 100, Tax = 0 → Total = 100  
+<img src="https://drive.google.com/file/d/1m4f0PGWuDSpLk6kVflGnwjk0938zULod/view?usp=sharing"/>
+
+### Permission Tests  
+• Regular user cannot access other users' records  
+<img src="https://drive.google.com/file/d/1SlApY5n6PbKW9OaIgFNV20Bil3k_Q41H/view?usp=sharing"/>
+
+• Superuser can access all records  
+<img src="https://drive.google.com/file/d/1Ki_yNAhNvTVWAiSQu37H6F5im-o-erVP/view?usp=sharing"/>
+
+• Unauthenticated requests are rejected  
+<img src="https://drive.google.com/file/d/13kAdUFetAJavqAzu9xPUBHfqhQNYLRgv/view?usp=sharing"/>
+
   <p>
     Run tests with: <code>python manage.py test</code>
   </p><br>
