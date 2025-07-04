@@ -1,22 +1,22 @@
 <div>
 
-    <h1>Django Expense Tracker API</h1>
+    <h1 alig="center">Django Expense Tracker API</h1>
 
     
     <h2>Project Overview</h2>
-    <p>A REST API for tracking personal expenses and incomes with JWT authentication.</p>
+    <p>A REST API for tracking personal expenses and incomes with JWT authentication.</p><br>
     
-    <div class="image-placeholder">
-        <img src="" alt="Folder Architecture" />
-    </div>
+    <strong>Folder Architecture</strong><br>
+    <img src="" alt="Folder Architecture" /><br>
+
     
     <h2>Core Features</h2>
 
-        <li><strong>User Authentication</strong>: JWT token-based security</li>
-        <li><strong>Expense/Income Tracking</strong>: Full CRUD operations</li>
-        <li><strong>Tax Calculations</strong>: Support for both flat and percentage taxes</li>
-        <li><strong>Data Isolation</strong>: Users only see their own records</li>
-        <li><strong>Admin Access</strong>: Superusers can view all records</li>
+        <strong>User Authentication</strong>: JWT token-based security <br>
+        <strong>Expense/Income Tracking</strong>: Full CRUD operations <br>
+        <strong>Tax Calculations</strong>: Support for both flat and percentage taxes <br>
+        <strong>Data Isolation</strong>: Users only see their own records <br>
+        <strong>Admin Access</strong>: Superusers can view all records <br>
     
     <h2>Database Models</h2>
     <h3>ExpenseIncome Model</h3>
@@ -30,7 +30,7 @@ tax → DecimalField (default 0)<br>
 tax_type → CharField (choices: 'flat', 'percentage', default 'flat') <br>
 created_at → DateTimeField (auto)<br>
 updated_at → DateTimeField (auto)<br>
-    </p>
+    </p><br>
     
     <h2>API Endpoints</h2>
     
