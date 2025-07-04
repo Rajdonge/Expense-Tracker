@@ -85,11 +85,11 @@
   <p>
     The API includes comprehensive test coverage for:
   </p>
-  ### Authentication Tests  
-• User registration with valid data  
+   <h2>Authentication Tests</h2>  
+<strong>• User registration with valid data </strong> <br>
 <img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/User%20Registration.jpg" width="700px"/><br>
 
-• User registration with duplicate email/username  
+<strong>• User registration with duplicate email/username  </strong>
 <img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/Duplicate%20User%20Registration.jpg" width="700px"/><br>
 
 • User login with valid credentials  
