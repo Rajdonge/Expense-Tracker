@@ -72,7 +72,7 @@
   </pre><br><br><hr><br> <br>
   <h1>📁 Project Folder Structure</h1>
 <p>This diagram outlines the file structure of the Django project:</p>
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/folder_structure.png" width="700px" alt="Folder Structure"/>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/folder_structure.png" width="700px" alt="Folder Structure"/><br><br><hr><br><br>
   
   <h1>4. Setup Instructions</h1><br>
   <ol>
