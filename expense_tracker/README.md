@@ -87,64 +87,64 @@
   </p>
    <h2>### Authentication Tests</h2>  
 <strong>• User registration with valid data </strong> <br>
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/User%20Registration.jpg" width="700px"/><br><br><hr>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/User%20Registration.jpg" width="700px"/><br><br><hr><br><br>
 
 <strong>• User registration with duplicate email/username  </strong><br>
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/Duplicate%20User%20Registration.jpg" width="700px"/><br><br><hr>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/Duplicate%20User%20Registration.jpg" width="700px"/><br><br><hr><br><br>
 
 <strong>• User login with valid credentials  </strong><br>
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/Login%20with%20valid%20user%20credentials.jpg" width="700px"/><br><br><hr>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/Login%20with%20valid%20user%20credentials.jpg" width="700px"/><br><br><hr><br><br>
 
 <strong>• User login with invalid credentials </strong> <br>
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/Login%20with%20invalid%20login%20credential.jpg" width="700px"/><br><br><hr>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/Login%20with%20invalid%20login%20credential.jpg" width="700px"/><br><br><hr><br><br>
 <strong>• Token refresh functionality </strong> <br>
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/Refresh%20JWT%20Token.jpg" width="700px"/><br><br><hr>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/Refresh%20JWT%20Token.jpg" width="700px"/><br><br><hr><br><br>
 
 <strong>• Access protected endpoint with valid token </strong> <br>
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/Access%20protected%20endpoint%20with%20valid%20token.jpg" width="700px"/><br><br><hr>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/Access%20protected%20endpoint%20with%20valid%20token.jpg" width="700px"/><br><br><hr><br><br>
 
 <strong>• Access protected endpoint without token  </strong><br>
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/Access%20protected%20endpoint%20without%20token.jpg" width="700px"/><br><br><hr>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/Access%20protected%20endpoint%20without%20token.jpg" width="700px"/><br><br><hr><br><br>
 
 <h2>### CRUD Operations Tests </h2> 
 <strong>• Create expense/income record </strong> <br>
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Crud%20Operation%20Test/Create%20expense%20or%20income%20record.jpg" width="700px"/><br><br><hr>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Crud%20Operation%20Test/Create%20expense%20or%20income%20record.jpg" width="700px"/><br><br><hr><br><br>
 
 <strong>• List user's own records only </strong> <br>
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Crud%20Operation%20Test/List%20user's%20own%20records%20only.jpg" width="700px"/><br><br><hr>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Crud%20Operation%20Test/List%20user's%20own%20records%20only.jpg" width="700px"/><br><br><hr><br><br>
 
 <strong>• Retrieve specific record (own only)  </strong><br>
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Crud%20Operation%20Test/Retrieve%20specific%20record%20(own%20only).jpg" width="700px"/><br><br><hr>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Crud%20Operation%20Test/Retrieve%20specific%20record%20(own%20only).jpg" width="700px"/><br><br><hr><br><br>
 
 <strong>• Update existing record (own only)  </strong><br>
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Crud%20Operation%20Test/Update%20existing%20record%20(own%20only).jpg" width="700px"/><br><br><hr>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Crud%20Operation%20Test/Update%20existing%20record%20(own%20only).jpg" width="700px"/><br><br><hr><br><br>
 
 <strong>• Delete record (own only)  </strong><br>
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Crud%20Operation%20Test/Delete%20record%20(own%20only).jpg" width="700px"/><br><br><hr>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Crud%20Operation%20Test/Delete%20record%20(own%20only).jpg" width="700px"/><br><br><hr><br><br>
 
 <strong>• Verify superuser can access all records </strong> <br>
 <img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Crud%20Operation%20Test/Superuser%20login.jpg"/><br>
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Crud%20Operation%20Test/Verify%20superuser%20can%20access%20all%20records.jpg" width="700px"/><br><br><hr>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Crud%20Operation%20Test/Verify%20superuser%20can%20access%20all%20records.jpg" width="700px"/><br><br><hr><br><br>
 
 <h2>### Business Logic Tests </h2>
 <strong>• Flat tax: Amount = 100, Tax = 10 → Total = 110 </strong> <br>
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Business%20Logic%20Test/q-1.jpg" width="700px"/><br><br><hr>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Business%20Logic%20Test/q-1.jpg" width="700px"/><br><br><hr><br><br>
 
 <strong>• Percentage tax: Amount = 100, Tax = 10% → Total = 110 </strong> <br>
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Business%20Logic%20Test/q-2.jpg" width="700px"/><br><br><hr>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Business%20Logic%20Test/q-2.jpg" width="700px"/><br><br><hr><br><br>
 
 <strong>• Zero tax: Amount = 100, Tax = 0 → Total = 100 </strong> <br>
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Business%20Logic%20Test/q-3.jpg" width="700px"/><br><br><hr>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Business%20Logic%20Test/q-3.jpg" width="700px"/><br><br><hr><br><br>
 
 <h2>### Permission Tests </h2>
 <strong>• Regular user cannot access other users' records  </strong><br>
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Permission%20Test/Regular%20user%20cannot%20access%20other%20users'%20records.jpg" width="700px"/><br><br><hr>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Permission%20Test/Regular%20user%20cannot%20access%20other%20users'%20records.jpg" width="700px"/><br><br><hr><br><br>
 
 <strong>• Superuser can access all records </strong> <br>
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Permission%20Test/Superuser%20can%20access%20all%20records.jpg" width="700px"/><br><br><hr>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Permission%20Test/Superuser%20can%20access%20all%20records.jpg" width="700px"/><br><br><hr><br><br>
 
 <strong>• Unauthenticated requests are rejected  </strong><br>
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Permission%20Test/Unauthenticated%20requests%20are%20rejected.jpg" width="700px"/><br><br><hr>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Permission%20Test/Unauthenticated%20requests%20are%20rejected.jpg" width="700px"/><br><br><hr><br><br>
 
   <p>
     Run tests with: <code>python manage.py test</code>
