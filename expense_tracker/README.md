@@ -87,29 +87,29 @@
   </p>
   ### Authentication Tests  
 • User registration with valid data  
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/User%20Registration.jpg"/>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/User%20Registration.jpg" width="700px"/>
 
 • User registration with duplicate email/username  
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/Duplicate%20User%20Registration.jpg" width="300px"/>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/Duplicate%20User%20Registration.jpg" width="700px"/>
 
 • User login with valid credentials  
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/Login%20with%20valid%20user%20credentials.jpg"/>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/Login%20with%20valid%20user%20credentials.jpg" width="700px"/>
 
 • User login with invalid credentials  
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/Login%20with%20invalid%20login%20credential.jpg"/>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/Login%20with%20invalid%20login%20credential.jpg" width="700px"/>
 
 • Token refresh functionality  
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/Refresh%20JWT%20Token.jpg"/>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/Refresh%20JWT%20Token.jpg" width="700px"/>
 
 • Access protected endpoint with valid token  
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/Access%20protected%20endpoint%20with%20valid%20token.jpg"/>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/Access%20protected%20endpoint%20with%20valid%20token.jpg" width="700px"/>
 
 • Access protected endpoint without token  
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/Access%20protected%20endpoint%20without%20token.jpg"/>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/Access%20protected%20endpoint%20without%20token.jpg" width="700px"/>
 
 ### CRUD Operations Tests  
 • Create expense/income record  
-<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Crud%20Operation%20Test/Create%20expense%20or%20income%20record.jpg"/>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Crud%20Operation%20Test/Create%20expense%20or%20income%20record.jpg" width="700px"/>
 
 • List user's own records only  
 <img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Crud%20Operation%20Test/List%20user's%20own%20records%20only.jpg"/>
