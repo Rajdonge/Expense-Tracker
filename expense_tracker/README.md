@@ -87,7 +87,7 @@
   </p>
   ### Authentication Tests  
 • User registration with valid data  
-<img src="https://drive.google.com/file/d/1OwmjSc3RxnEpeL53PWVMGzqAYqNchCn5/view?usp=sharing"/>
+<img src="https://github.com/Rajdonge/Expense-Tracker/blob/main/expense_tracker/Testing%20Screenshots/Authentication%20Test/User%20Registration.jpg"/>
 
 • User registration with duplicate email/username  
 <img src="https://drive.google.com/file/d/1TqO2w8xIUz_2NduYQhwfvS0eoAa--1_Y/view?usp=sharing"/>
